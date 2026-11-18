@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475399035126",
+    "project_id": "cce-task10",
+    "storage_bucket": "cce-task10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475399035126:android:2c018a11f40d804f12f4d7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_abueva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWv5lPQtvdIWkiSPMH9lGybr1QcBDuxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
