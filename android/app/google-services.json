@@ -12,7 +12,20 @@
           "package_name": "com.example.firebase_crud_abueva"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "475399035126-87aqarj5mhb993b3j5ktdldmv304916p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_crud_abueva",
+            "certificate_hash": "6424b78a441f5d8f74914e2e923300109049c691"
+          }
+        },
+        {
+          "client_id": "475399035126-cmrls4o56tp7b717c4fc0iq4ffeilljq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDoWv5lPQtvdIWkiSPMH9lGybr1QcBDuxE"
@@ -20,7 +33,63 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475399035126-cmrls4o56tp7b717c4fc0iq4ffeilljq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475399035126-7nrbaf0q576733ocjou4u06701k2ebjh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrudnoteAbueva"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475399035126:android:1ad6c73396e6d40d12f4d7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crudnote_abueva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475399035126-nmvcjjpp16gh2dmkcu2afntq1rb7b8nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_crudnote_abueva",
+            "certificate_hash": "6424b78a441f5d8f74914e2e923300109049c691"
+          }
+        },
+        {
+          "client_id": "475399035126-cmrls4o56tp7b717c4fc0iq4ffeilljq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWv5lPQtvdIWkiSPMH9lGybr1QcBDuxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475399035126-cmrls4o56tp7b717c4fc0iq4ffeilljq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475399035126-7nrbaf0q576733ocjou4u06701k2ebjh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrudnoteAbueva"
+              }
+            }
+          ]
         }
       }
     }

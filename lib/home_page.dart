@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'crud_service.dart';
+import 'auth_service.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -141,6 +142,13 @@ class _HomePageState extends State<HomePage> {
             ),
             onPressed: () {
               setState(() => showFavoritesOnly = !showFavoritesOnly);
+            },
+          ),
+          IconButton(
+            icon: const Icon(Icons.logout),
+            tooltip: 'Sign out',
+            onPressed: () async {
+              await AuthService().signOut();
             },
           ),
         ],
